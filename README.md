@@ -2,7 +2,7 @@
 
 ## About Me 🙋‍♂️
 
-Hey there! I'm [Your Name], a passionate tech enthusiast diving into the realms of DevOps and Cybersecurity. With a background in [mention any relevant background or education], I've embarked on a journey to explore the dynamic intersection between efficient development operations and robust security measures.
+Hey there! I'm Eric, a passionate tech enthusiast diving into the realms of DevOps and Cybersecurity. With a background in Software Engineering and DevOps, I've embarked on a journey to explore the dynamic intersection between efficient development operations and robust security measures.
 
 ## What I Do 🤔
 

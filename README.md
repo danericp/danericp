@@ -22,7 +22,6 @@ Hey there! I'm Eric, a passionate tech enthusiast diving into the realms of DevO
   - [Python Projects](https://github.com/danericp/python-projects)
   - [Shell script Projects](https://github.com/danericp/shell-projects)
 - **Learning Journeys:** As I continue learning and growing, I'll share insights, tutorials, and experiences gained along the way to help others in similar pursuits.
-  - **Cybersecurity Cheat Sheets**
   - **DevOps Cheat Sheets**
     - [AWS CLI](https://github.com/danericp/development/tree/main/AWS)
     - [Docker (Docker, Compose and Swarm)](https://github.com/danericp/development/tree/main/Docker/cheat-sheet)

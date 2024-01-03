@@ -18,7 +18,16 @@ Hey there! I'm Eric, a passionate tech enthusiast diving into the realms of DevO
 ## What You'll Find Here 📃
 
 - **Projects:** I love tinkering with various projects, from automation scripts to deployment pipelines, showcasing my skills and exploring new technologies.
+  - [Java Projects](https://github.com/danericp/java-projects)
+  - [Python Projects](https://github.com/danericp/python-projects)
+  - [Shell script Projects](https://github.com/danericp/shell-projects)
 - **Learning Journeys:** As I continue learning and growing, I'll share insights, tutorials, and experiences gained along the way to help others in similar pursuits.
+  - **Cybersecurity Cheat Sheets**
+  - **DevOps Cheat Sheets**
+    - [AWS CLI](https://github.com/danericp/development/tree/main/AWS)
+    - [Docker (Docker, Compose and Swarm)](https://github.com/danericp/development/tree/main/Docker/cheat-sheet)
+    - [Kubernetes (eksctl, helm, kind, kubectl and minikube)](https://github.com/danericp/development/tree/main/Kubernetes/cheat-sheet)
+    - [Python Environment](https://github.com/danericp/python-projects/tree/main/cheatsheet)
 
 ## Let's Connect! 💬🗨️
 
